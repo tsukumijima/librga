@@ -37,7 +37,8 @@ jobs:
               dh-exec \
               libdrm-dev \
               libtool \
-              meson
+              meson \
+              pkg-config
 
         COPY . /src
 

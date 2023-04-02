@@ -1,7 +1,7 @@
 project(
     'librga',
     'cpp',
-    version : '2.1.0',
+    version : '2.2.0',
     meson_version : '>=0.47.0',
     default_options : ['warning_level=3', 'cpp_std=c++14']
 )
@@ -29,7 +29,7 @@ librga = shared_library(
 install_data(
     'libs/Linux/gcc-aarch64/librga.so',
     install_dir : '/usr/lib/aarch64-linux-gnu',
-    rename : 'librga.so.2.1.0',
+    rename : 'librga.so.2.2.0',
 )
 install_data(
     'libs/Linux/gcc-aarch64/librga.a',
