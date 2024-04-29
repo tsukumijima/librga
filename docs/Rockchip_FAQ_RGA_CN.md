@@ -106,7 +106,7 @@ API版本号分为主版本号、次版本号、修订版本号、编译版本�
 
   - 联想网盘链接：
   
-    https://console.zbox.filez.com/l/fuGojC（提取码：rkrga）
+    https://console.zbox.filez.com/l/fuGojC （提取码：rkrga）
 
 
 
@@ -129,7 +129,7 @@ API版本号分为主版本号、次版本号、修订版本号、编译版本�
 
   - 联想网盘链接：
   
-    https://console.zbox.filez.com/l/7oOrKO（提取码：rkrga）
+    https://console.zbox.filez.com/l/7oOrKO （提取码：rkrga）
 
 
 
@@ -146,7 +146,7 @@ API版本号分为主版本号、次版本号、修订版本号、编译版本�
 
 通常发布的SDK中是版本是匹配的，但是出于一些应用对高版本librga.so的依赖，可以使用以下百度网盘链接获取RGA模块代码更新包：
 
-https://console.zbox.filez.com/l/mu2SOR（提取码：rkrga）
+https://console.zbox.filez.com/l/mu2SOR （提取码：rkrga）
 
 - update-to-MULTI_RGA
 
@@ -1145,8 +1145,6 @@ Date:   Tue Nov 24 19:50:17 2020 +0800
 **A2.11**：该现象通常是由于librga与内核不匹配导致，详细版本说明可以查看 **A2.4** 。该问题通常是在一些2020年11月前发布的SDK中使用了github上获取的librga之后出现该现象。github上更新librga为新版本librga，与较旧版本的RGA驱动是不匹配的，这里一些关于色域空间的配置有发生改变，所以会出现较明显的色偏现象。
 
 ​			该问题的解决方案有两种，一为更新SDK或RGA驱动，保持librga与驱动是匹配的即可，第二种则是如若无需新版本librga才有的功能，可以使用SDK自带的librga即可。
-
-​			rga模块源码更新包可以通过百度网盘获取：https://eyun.baidu.com/s/3i6sbsDR
 
 
 
