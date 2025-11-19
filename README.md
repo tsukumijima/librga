@@ -6,7 +6,7 @@ RGA (Raster Graphic Acceleration Unit)是一个独立的2D硬件加速器，可�
 
 #### RGA API
 
-- 当前预编译仓库API版本：1.10.4
+- 当前预编译仓库API版本：1.10.5
 
 - 获取源码方式：
 
@@ -98,7 +98,7 @@ RGA (Raster Graphic Acceleration Unit)是一个独立的2D硬件加速器，可�
 
 ### 适用芯片平台
 
-Rockchip RK3128 | RK3126c | RK3288 | RK3288w | RV1108 | RK3368 | RK3326 | RK3228 | RK3228H | RK3326 | RK1808 | RV1126 | RV1109 | RK3399 | RK3399pro | RK3566 | RK3568 | RK3588 | RK3326S | RV1106 | RV1103 | RK3528 | RK3562 |RK3576 | RK3506 | RV1103B
+Rockchip RK3128 | RK3126c | RK3288 | RK3288w | RV1108 | RK3368 | RK3326 | RK3228 | RK3228H | RK3326 | RK1808 | RV1126 | RV1109 | RK3399 | RK3399pro | RK3566 | RK3568 | RK3588 | RK3326S | RV1106 | RV1103 | RK3528 | RK3562 |RK3576 | RK3506 | RV1103B | RK1820
 
 >  本仓库预编译文件只支持以下芯片平台，其他芯片平台可以使用SDK中源码进行编译。
 
